@@ -1,8 +1,8 @@
 # Source Code CRUD PHP MySQL
 TEKNOLOGI :
--PHP
--BOOSTRAP 5
--XAMPP
--MySQL/DATABASE
+- PHP
+- BOOSTRAP 5
+- XAMPP
+- DATABASE/MySQL
 
 Link Akses : localhost/CRUD PHP/
