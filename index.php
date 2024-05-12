@@ -15,7 +15,7 @@
     <!-- BOOSTRAP -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <script src="js/bootstrap.bundle.min.js"></script>
-    <title>belajar_awal</title>
+    <title>belajar_CRUD</title>
 </head>
 <body>
     <nav class="navbar bg-body-tertiary">
